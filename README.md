@@ -11,6 +11,10 @@ In this project, we utilized data on basketball statistics, measurements, and ba
 ### Data
 This project uses two primary sources of data: Kaggle data on NBA players from the 1996-97 season through the 2020-21 season, and Basketball-Reference data for NBA players in the 2019-20 season.
 
+https://www.kaggle.com/datasets/justinas/nba-players-data
+
+https://www.basketball-reference.com/leagues/NBA_2020_per_game.html
+
 
 ### Getting Started
 These instructions will get you a copy of the project up and running on you local machine for development and testing purposes.
