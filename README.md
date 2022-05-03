@@ -42,13 +42,18 @@ What things you need to run the software
 
 ### Questions
 Question 1: Is there a significant correlation between the amount of games played, assists, and rebounds per game by each player and the field goals made per game that they have?
+
 Question 2: Do Americans or Non-Americans tend to have higher field goals made per game?
+
 Question 3: Do players that went to American colleges or did not go to American colleges tend to have higher field goals made per game?
+
 Question 4: What is the relationship between a player’s age, height, and weight with field goals made per game?
+
 Question 5: Does net rating, true shooting percentage, or usage percentage have the highest correlation with field goals made per game?
 
 ### Graphs
 From ggplot: Scatter Plot
+
 From dplyr: Boxplot
 
 ### Methodologies
