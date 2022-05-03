@@ -25,3 +25,34 @@ What things you need to run the software
 2. RStudio 1.0.135
 3. install. packages should not be in your script. library(package) is necessary.
 4. Packages to install: xml2, ggplot2, dplyr.
+
+
+### Script Initial Steps
+1. Read the csv file which is a data frame gotten from Kaggle
+2. Subset the dataframe
+3. Web scrape data from basketball-reference website
+4. This will get the player names in a data frame
+5. This will get field goals made per game in a data frame
+6. Vertical Integration to put all the players and field goals made per game in one data frame
+7. Horizontal Integration to put all the stats, measurements, background information, and field goals made per game into 1 data frame
+8. Converted field goals made per game into a numeric category
+9. Sorted the data frame in order of most field goals made per game
+10. Nulled the columns that were not used in the questions
+
+
+### Questions
+Question 1: Is there a significant correlation between the amount of games played, assists, and rebounds per game by each player and the field goals made per game that they have?
+Question 2: Do Americans or Non-Americans tend to have higher field goals made per game?
+Question 3: Do players that went to American colleges or did not go to American colleges tend to have higher field goals made per game?
+Question 4: What is the relationship between a player’s age, height, and weight with field goals made per game?
+Question 5: Does net rating, true shooting percentage, or usage percentage have the highest correlation with field goals made per game?
+
+### Graphs
+From ggplot: Scatter Plot
+From dplyr: Boxplot
+
+### Methodologies
+1. Web Scraping
+2. Correlation
+3. Correlation Test
+4. T.Test
