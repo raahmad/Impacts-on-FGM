@@ -27,7 +27,6 @@ These instructions will get you a copy of the project up and running on you loca
 What things you need to run the software
 1. R 3.3.2
 2. RStudio 1.0.135
-3. install. packages should not be in your script. library(package) is necessary.
 4. Packages to install: xml2, ggplot2, dplyr.
 
 
