@@ -57,7 +57,7 @@ Question 5: Does net rating, true shooting percentage, or usage percentage have 
 ### Graphs
 From ggplot: Scatter Plot
 
-From dplyr: Boxplot
+From dplyr: Box Plot
 
 ### Methodologies
 1. Web Scraping
