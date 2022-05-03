@@ -37,7 +37,7 @@ What things you need to run the software
 4. This will get the player names in a data frame
 5. This will get field goals made per game in a data frame
 6. Vertical Integration to put all the players and field goals made per game in one data frame
-7. Horizontal Integration to put all the stats, measurements, background information, and field goals made per game into 1 data frame
+7. Horizontal Integration to put all the stats, measurements, background information, and field goals made per game into one data frame
 8. Converted field goals made per game into a numeric category
 9. Sorted the data frame in order of most field goals made per game
 10. Nulled the columns that were not used in the questions
