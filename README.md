@@ -61,3 +61,19 @@ From dplyr: Boxplot
 2. Correlation
 3. Correlation Test
 4. T.Test
+
+
+### Versioning
+Version 1.0
+
+### Authors
+Raees Ahmad
+
+Dylan Humble
+
+Nile Christensen
+
+Camden Eaton
+
+### Acknowledgments
+Acknowledgements to Professor Michael Colbert and Teacher Assistant Jafar Namdar within the University of Iowa for assistance in the completion of this analysis.
